@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/happening/static/css/main.073c9b0a.css",
+    "main.js": "/happening/static/js/main.a6e5227b.js",
+    "static/js/787.d25a0066.chunk.js": "/happening/static/js/787.d25a0066.chunk.js",
+    "service-worker.js": "/happening/service-worker.js",
+    "static/media/logo.svg": "/happening/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/happening/index.html",
+    "main.073c9b0a.css.map": "/happening/static/css/main.073c9b0a.css.map",
+    "main.a6e5227b.js.map": "/happening/static/js/main.a6e5227b.js.map",
+    "787.d25a0066.chunk.js.map": "/happening/static/js/787.d25a0066.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a6e5227b.js"
+  ]
+}
